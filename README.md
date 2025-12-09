@@ -70,6 +70,19 @@ Os dados foram pré-processados e limpos para garantir a integridade das anális
 - **Previsões de comportamentos**: Modelos que podem ajudar a prever futuras infrações com base em dados históricos.
 - **Visualizações claras e intuitivas**: Gráficos e mapas interativos para comunicar os resultados de forma visual e acessível.
 
+  
+## Autor
+
+**Vitor Hugo Muniz de Sousa Santos**
+
+Engenheiro de Computação | Cientista de Dados
+
+[vitormunnizzdev@gmail.com](mailto:vitormunnizzdev@gmail.com)
+[www.linkedin.com/in/vitormunnizz](https://www.linkedin.com/in/vitormunnizz)
+
 ## Licença
 
-Este projeto é de código aberto e está disponível sob a licença MIT.
+Este projeto está licenciado sob a **MIT License**.
+Sinta-se livre para usar e modificar conforme necessário, mantendo os créditos ao autor.
+
+**Se este projeto te ajudou, deixe uma estrela no repositório!**
