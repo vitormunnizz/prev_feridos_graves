@@ -48,18 +48,6 @@ A análise tem como objetivo auxiliar na compreensão de comportamentos que poss
   - seaborn
   - scikit-learn
 
-### Instruções para Execução
-1. Clone o repositório para sua máquina local.
-2. Instale as dependências com o seguinte comando:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Abra o Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-4. Execute o notebook `detran.ipynb` para visualizar a análise completa e os resultados.
-
 ## Base de Dados
 
 O projeto utiliza uma base de dados fornecida pelo **DETRAN** contendo informações sobre:
