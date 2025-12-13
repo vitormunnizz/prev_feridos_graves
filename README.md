@@ -1,5 +1,3 @@
-# Projeto de Análise de Dados do DETRAN
-
 ## Descrição do Projeto
 
 Este projeto utiliza Python e suas bibliotecas de ciência de dados para analisar dados fornecidos pelo **DETRAN** (Departamento Estadual de Trânsito). O foco principal do projeto é explorar e compreender os padrões nos dados relacionados a veículos, motoristas, infrações e possíveis tendências observadas ao longo do tempo.
